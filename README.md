@@ -8,7 +8,7 @@ This project aims to demonstrate how to download and install PuTTY SSH client an
 
 PuTTY is a free, open-source terminal emulator and network file transfer application, created in 1997 by Simon Tatham, that serves a client program for SSH and Telnet and it is used primarily to to log into another computer over a network or the Internet.
 
-![image alt](https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/blob/7c5eb9d013d120b5aacc85bee223da9e11e53dd1/Figure%201.png)
+![image alt](https://github.com/Michaelsalaja/Network-Engineering-and-Cryptography-Lab/blob/408a0a952d2b5c106e229dd2cea9aa9b2975c703/Figure%201.png)
 
 *   **What is SSH key?**
 

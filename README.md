@@ -1,4 +1,4 @@
-# <span style="color: orange">PuTTy Installation and SSH Keys Generation</span>
+# <span style="color: orange">SSH Configuration & Secure Remote Access Setup (PuTTY & Key Management)</span>
 
 ## <span style="color: orange">Introduction</span>
 

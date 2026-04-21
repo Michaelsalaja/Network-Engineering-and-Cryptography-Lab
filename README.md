@@ -126,11 +126,6 @@ eval $(ssh-agent)
 
 After the program starts the ssh-add command to add your public key to the agent, the ssh-add utility searches for default keynames, of which id_rsa is one, and adds them to the ssh-agent. After you type your password, the "unlocked" key is stored with ssh-agent and can be used to authenticate against other servers.
 
-root@bck1:~# ssh-add
-Enter passphrase for /root/.ssh/id_rsa:
-Identity added: /root/.ssh/id_rsa (/root/.ssh/id_rsa)
-root@bck1:~#
-
 Each time that you open a new terminal session, you are prompted for the key passphrase. Consider running the following commands to append your .bash_profile file so that ssh-agent starts with every bash session and adds your key.
 
 echo ‘eval $(ssh-agent)’ >> ~/.bash_profile

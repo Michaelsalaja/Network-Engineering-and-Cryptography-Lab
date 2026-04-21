@@ -131,6 +131,6 @@ Each time that you open a new terminal session, you are prompted for the key pas
 echo ‘eval $(ssh-agent)’ >> ~/.bash_profile
 echo ‘ssh-add’ >> ~/.bash_profile
 
-<mark><font color="#E36C09">Conclusion</font></mark>
+➤ Conclusion
 
 This lab projects helps equip people with the knowledge and skills to download and install **PuTTY SSH** client and create their own public and private **SSH** keys.
